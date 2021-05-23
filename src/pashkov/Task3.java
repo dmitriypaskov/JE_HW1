@@ -1,6 +1,6 @@
 package pashkov;
 
-public class EX3 {
+public class Task3 {
 
     public static void main(String[] args) {
         /*3) Write a method that will return a String in which there will be numbers from 1 to 30 in one line.

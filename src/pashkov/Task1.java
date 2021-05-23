@@ -1,6 +1,6 @@
 package pashkov;
 
-public class EX1 {
+public class Task1 {
 
     public static void main(String[] args) {
      /* 1) Print a series of numbers from 1 to 100 separated by a space, with the changes:
@@ -14,8 +14,9 @@ public class EX1 {
                 System.out.print("Hello ");
             } else if (i % 5 == 0) {
                 System.out.print("World ");
-            } else
-            System.out.print(i + " ");
+            } else {
+                System.out.print(i + " ");
+            }
         }
     }
 }
